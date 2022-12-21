@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(73, 72, 72);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 187px;
+}
+
+.offcanvas-header a {
+    text-decoration: none;
+    color: #fff;
+    border-radius: 10px;
+    border:1px solid #fff;
+    text-align: left;
+    padding: 9px 14em 10px 1em;
+}
+
+.offcanvas-body a {
+    text-decoration: none;
+    color: #fff;
+    text-align: bottom;
+    padding: 9px 9em 10px 7em;
+}
+
+hr {
+    margin-bottom: auto;
+}
+
+.h-100 {
+    background-color: rgb(57, 55, 55);
+}
+
+footer input {
+    margin-left: 5em;
+    padding: 5px 25em 5px 25em;
+    background-color: rgb(57, 55, 55);
+}
